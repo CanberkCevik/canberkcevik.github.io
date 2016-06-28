@@ -15,6 +15,7 @@ Kod Denemem :+1:
 \begin{document} Merhaba \end{document}
 ```
 
-Bunun gibi komutları [WikiBook](https://tr.wikibooks.org/wiki/LaTeX) sitesinden öğreniyorum.
+* MarkDown Yazı Biçimini [GitHub Guides](https://guides.github.com/features/mastering-markdown/)
+* LaTeX [WikiBook](https://tr.wikibooks.org/wiki/LaTeX)
 
 
